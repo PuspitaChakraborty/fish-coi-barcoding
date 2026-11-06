@@ -1,0 +1,16 @@
+target_species,genbank_organism,accession,expected_coi_length_bp,notes
+Labeo rohita,Labeo rohita,PZ808341.1,639,Partial mitochondrial COX1 CDS; codon_start=3; specimen from India; replace previous NC_017608.1 complete mitogenome record.
+Catla catla,Labeo catla,PZ902058.1,669,GenBank organism is Labeo catla; retain this annotation and document the target-name/taxonomy mapping.
+Cirrhinus mrigala,Cirrhinus mrigala,PX455935.1,612,Partial mitochondrial COX1 CDS.
+Wallago attu,Wallago attu,PZ902066.1,639,Partial mitochondrial COX1 CDS.
+Ompok pabda,Ompok pabda,QB212696.1,588,Partial mitochondrial COX1 CDS; relatively short sequence; inspect overlap during QC.
+Heteropneustes fossilis,Heteropneustes fossilis,PZ476727.1,600,Partial mitochondrial COX1 CDS.
+Channa punctata,Channa punctata,QB226413.1,654,Partial mitochondrial COX1 CDS.
+Channa striata,Channa striata,QB226397.1,591,Partial mitochondrial COX1 CDS; relatively short sequence; inspect overlap during QC.
+Oreochromis niloticus,Oreochromis niloticus,QB075614.1,681,Partial mitochondrial COX1 CDS.
+Coptodon zillii,Coptodon zillii,PV812647.1,626,Partial mitochondrial COI/COX1 CDS; annotation uses COI.
+Anabas testudineus,Anabas testudineus,OR898903.1,679,Partial mitochondrial COX1 CDS; inspect translated sequence/frame during QC.
+Notopterus notopterus,Notopterus notopterus,OR593481.1,654,Partial mitochondrial COX1 CDS; specimen voucher/publication noted in GenBank record.
+Chitala chitala,Chitala chitala,QB212268.1,627,Partial mitochondrial COX1 CDS.
+Clarias batrachus,Clarias batrachus,PZ298608.1,639,Partial mitochondrial COX1 CDS; specimen voucher/publication noted in GenBank record.
+Mystus cavasius,Mystus cavasius,PZ902059.1,669,Partial mitochondrial COX1 CDS; codon_start=2; inspect translation/frame during QC.
