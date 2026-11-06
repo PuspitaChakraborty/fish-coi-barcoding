@@ -1,0 +1,16 @@
+accession,organism,sequence_length_bp,codon_start,translation_table,ambiguous_nucleotides,translatable_length_bp,generated_protein_length,annotated_protein_length,internal_stop_codons,translation_match,status,warnings
+OR593481.1,Notopterus notopterus,654,1,2,0,654,218,218,0,True,PASS,
+OR898903.1,Anabas testudineus,679,1,2,0,678,226,226,0,True,PASS_WITH_NOTE,incomplete_terminal_codon
+PV812647.1,Coptodon zillii,626,1,2,0,624,208,208,0,True,PASS_WITH_NOTE,incomplete_terminal_codon
+PX455935.1,Cirrhinus mrigala,612,1,2,0,612,204,204,0,True,PASS,
+PZ298608.1,Clarias batrachus,639,1,2,0,639,213,213,0,True,PASS,
+PZ476727.1,Heteropneustes fossilis,600,1,2,0,600,200,200,0,True,PASS,
+PZ808341.1,Labeo rohita,639,3,2,0,636,212,212,0,True,PASS_WITH_NOTE,incomplete_terminal_codon
+PZ902058.1,Labeo catla,669,2,2,0,666,222,222,0,True,PASS_WITH_NOTE,incomplete_terminal_codon
+PZ902059.1,Mystus cavasius,669,2,2,0,666,222,222,0,True,PASS_WITH_NOTE,incomplete_terminal_codon
+PZ902066.1,Wallago attu,639,1,2,0,639,213,213,0,True,PASS,
+QB075614.1,Oreochromis niloticus,681,2,2,0,678,226,226,0,True,PASS_WITH_NOTE,incomplete_terminal_codon
+QB212268.1,Chitala chitala,627,1,2,0,627,209,209,0,True,PASS,
+QB212696.1,Ompok pabda,588,1,2,0,588,196,196,0,True,PASS,
+QB226397.1,Channa striata,591,1,2,0,591,197,197,0,True,PASS,
+QB226413.1,Channa punctata,654,1,2,0,654,218,218,0,True,PASS,

@@ -1,0 +1,16 @@
+target_species,accession,original_cds_length,codon_start,leading_bases_removed,trailing_bases_removed,final_sequence_length
+Labeo rohita,PZ808341.1,639,3,2,1,636
+Catla catla,PZ902058.1,669,2,1,2,666
+Cirrhinus mrigala,PX455935.1,612,1,0,0,612
+Wallago attu,PZ902066.1,639,1,0,0,639
+Ompok pabda,QB212696.1,588,1,0,0,588
+Heteropneustes fossilis,PZ476727.1,600,1,0,0,600
+Channa punctata,QB226413.1,654,1,0,0,654
+Channa striata,QB226397.1,591,1,0,0,591
+Oreochromis niloticus,QB075614.1,681,2,1,2,678
+Coptodon zillii,PV812647.1,626,1,0,2,624
+Anabas testudineus,OR898903.1,679,1,0,1,678
+Notopterus notopterus,OR593481.1,654,1,0,0,654
+Chitala chitala,QB212268.1,627,1,0,0,627
+Clarias batrachus,PZ298608.1,639,1,0,0,639
+Mystus cavasius,PZ902059.1,669,2,1,2,666
