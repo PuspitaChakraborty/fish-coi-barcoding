@@ -104,6 +104,11 @@ fish-coi-barcoding/
 - Neighbor-Joining tree
 - Bootstrap-supported phylogenetic tree
 - High-resolution phylogenetic tree figure
+- ## Phylogenetic Tree
+
+The Neighbor-Joining tree was reconstructed using Kimura 2-Parameter genetic distances and evaluated with 1,000 bootstrap replicates.
+
+![COI Phylogenetic Tree](figures/phylogenetic_tree.png)
 
 ## Reproducibility
 
